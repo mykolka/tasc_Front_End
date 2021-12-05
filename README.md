@@ -1,0 +1,1 @@
+html/css/js(popUp + slider) + adaptive https://mykolka.github.io/tascFrontEnd1/
